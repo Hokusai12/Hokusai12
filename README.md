@@ -11,4 +11,8 @@
 - ⚡ Fun fact: 
     When I'm not torturing myself with a computer💻 I like to practice whatever piano piece I'm working on at the moment.🎹
     If not those, then I'm most likely lost in an video game with no way out 🎮🔦
-![Asakusa Honganji by Hokusai](hokusai/Asakusa-Honganji-Hokusai.jpg)
+    
+<html>
+    <div align="center">
+        <image src="hokusai/Asakusa-Honganji-Hokusai.jpg" align="center" style="width: 50%"/>
+    </div>
