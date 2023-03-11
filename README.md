@@ -1,7 +1,7 @@
 ### Hi there 👋  I'm Ian
 
 - 🔭 I’m currently working on
-    A Dungeons & Dragons site for creating and storing world assets
+    a site for creating and storing Dungeons & Dragons players
 - 🎓 I'm studying Full-Stack Development through [CodingDojo](https://www.codingdojo.com/)
 - 🌱 I’m currently learning 
     Full-Stack Development using Java with Spring Boot
