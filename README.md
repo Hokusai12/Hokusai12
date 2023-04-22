@@ -1,7 +1,7 @@
 ### Hi there 👋  I'm Ian
 
 - 🔭 I’m currently working on
-    a site for creating and storing Dungeons & Dragons players
+    a site for creating and storing notes and character for Dungeons & Dragons players and DMs
 - 🎓 I'm studying Full-Stack Development through [CodingDojo](https://www.codingdojo.com/)
 - 🌱 I’m currently learning 
     Full-Stack Development using Java with Spring Boot
