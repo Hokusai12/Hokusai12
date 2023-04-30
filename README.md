@@ -2,9 +2,8 @@
 
 - 🔭 I’m currently working on
     a site for creating and storing notes and character for Dungeons & Dragons players and DMs
-- 🎓 I'm studying Full-Stack Development through [CodingDojo](https://www.codingdojo.com/)
 - 🌱 I’m currently learning 
-    Full-Stack Development using Java with Spring Boot
+    Authentication and Authorization using Spring Security
 - 📫 How to reach me: 
     Email: hokusai2003@gmail.com
 - 😄 Pronouns: He/Him
@@ -16,3 +15,4 @@
     <div align="center">
         <image src="hokusai/Asakusa-Honganji-Hokusai.jpg" align="center" style="width: 50%"/>
     </div>
+</html>
